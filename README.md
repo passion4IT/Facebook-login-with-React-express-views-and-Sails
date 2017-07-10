@@ -1,5 +1,5 @@
 # Facebook login with React express views and Sails
-- Intention of this project to explore implementation of facebook login system with SailsJs, passport, bootstrap and React-express-views as React engine
+- Intention of this project was to explore implementation of login system with facebook Api with SailsJs, passport, bootstrap and React-express-views as React engine
 - configure database configuration
   - change credentials under config/connections.js
     - host, user, password, database name
